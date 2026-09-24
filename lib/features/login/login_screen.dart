@@ -32,7 +32,7 @@ class LoginScreen extends StatelessWidget {
                   },
                   icon: Icon(Icons.language),
                 ),
-                150.verticalSpace,
+                100.verticalSpace,
                 LoginPicture(),
                 20.verticalSpace,
                 LoginDesc(),
