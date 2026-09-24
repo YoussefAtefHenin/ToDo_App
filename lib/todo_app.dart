@@ -2,6 +2,7 @@ import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:todo_app/features/login/login_screen.dart';
+import 'package:todo_app/features/splash/splash_screen.dart';
 
 class TodoApp extends StatelessWidget {
   const TodoApp({super.key});
@@ -19,7 +20,8 @@ class TodoApp extends StatelessWidget {
         supportedLocales: context.supportedLocales,
         locale: context.locale,
 
-        home: LoginScreen(),
+        // home: LoginScreen(),
+        home: SplashScreen(),
       ),
     );
   }
