@@ -22,9 +22,13 @@ A Flutter Todo application with a clean and simple user interface.
 ### Login Screen
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3dc9eafb-213e-4f14-914b-522467f5f36d" width="250"/>
-  <img src="https://github.com/user-attachments/assets/e3610627-814d-4d4e-9f80-e50cd58657ce" width="250"/>
-  <img src="https://github.com/user-attachments/assets/b6a3a6c5-f898-44ac-b79f-310633c6b337" width="250"/>
+  
+  <img width="1080" height="2400" alt="Screenshot_1790230248" src="https://github.com/user-attachments/assets/5da01a7d-2d66-4ae6-bdfc-1d1e3604d119" width="250"/>
+
+<img width="1080" height="2400" alt="Screenshot_1790230253" src="https://github.com/user-attachments/assets/e3d53ec2-fac2-4888-93a4-52c7170228c6" width="250"/>
+<img width="1080" height="2400" alt="Screenshot_1790230296" src="https://github.com/user-attachments/assets/c76c20ef-d249-4c05-851a-4a8a16b025b5" width="250"/>
+
+
 </p>
 
 ## Localization
