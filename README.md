@@ -7,6 +7,7 @@ A Flutter Todo application with a clean and simple user interface.
 * Lottie Splash Screen
 * Login Screen
 * Name validation
+* Image Picker
 * Responsive UI
 * Localization using `easy_localization`
 
@@ -25,6 +26,9 @@ A Flutter Todo application with a clean and simple user interface.
   <img src="https://github.com/user-attachments/assets/5da01a7d-2d66-4ae6-bdfc-1d1e3604d119" width="250"/>
   <img src="https://github.com/user-attachments/assets/e3d53ec2-fac2-4888-93a4-52c7170228c6" width="250"/>
   <img src="https://github.com/user-attachments/assets/c76c20ef-d249-4c05-851a-4a8a16b025b5" width="250"/>
+  <img src="https://github.com/user-attachments/assets/0c7ff4ca-02f5-4c6e-ba63-013570128a88" width="250"/>
+  <img src="https://github.com/user-attachments/assets/5abaa772-03e0-48c4-b116-89867626bb09" width="250"/>
+  <img src="https://github.com/user-attachments/assets/459e5e25-cf1b-4fed-92ba-78c5c10fbc1c" width="250"/>
 </p>
 
 ## Localization
@@ -43,4 +47,5 @@ dart run easy_localization:generate --source-dir ./assets/translations -f keys -
 * Dart
 * Flutter ScreenUtil
 * Lottie
+* Image Picker
 * Easy Localization
