@@ -8,7 +8,9 @@ import 'package:todo_app/core/widgets/custom_button.dart';
 import 'package:todo_app/gen/locale-keys.g.dart';
 
 class LoginPicture extends StatefulWidget {
-  const LoginPicture({super.key});
+  final Function(String) onImageSelected;
+
+  const LoginPicture({super.key, required this.onImageSelected});
 
   @override
   State<LoginPicture> createState() => _LoginPictureState();
@@ -17,13 +19,24 @@ class LoginPicture extends StatefulWidget {
 class _LoginPictureState extends State<LoginPicture> {
   final picker = ImagePicker();
   XFile? photo;
+
   void pickImageFromCamera() async {
     photo = await picker.pickImage(source: ImageSource.camera);
+
+    if (photo != null) {
+      widget.onImageSelected(photo!.path);
+    }
+
     setState(() {});
   }
 
   void pickImageFromGallery() async {
     photo = await picker.pickImage(source: ImageSource.gallery);
+
+    if (photo != null) {
+      widget.onImageSelected(photo!.path);
+    }
+
     setState(() {});
   }
 
@@ -41,7 +54,6 @@ class _LoginPictureState extends State<LoginPicture> {
                 right: 25.w,
                 bottom: 40.h,
               ),
-
               child: Column(
                 mainAxisSize: MainAxisSize.min,
                 children: [
@@ -69,7 +81,7 @@ class _LoginPictureState extends State<LoginPicture> {
           radius: 70.r,
           backgroundColor: const Color.fromARGB(255, 245, 240, 240),
           backgroundImage: photo != null
-              ? Image.file(File(photo?.path ?? "")).image
+              ? Image.file(File(photo!.path)).image
               : null,
           child: photo == null
               ? Icon(Icons.person_2, size: 70, color: Colors.blue)

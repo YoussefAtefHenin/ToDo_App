@@ -41,6 +41,10 @@ To generate the localization keys, run:
 dart run easy_localization:generate --source-dir ./assets/translations -f keys -o locale-keys.g.dart -O lib/gen
 ```
 
+```bash
+dart run build_runner build --delete-conflicting-outputs
+```
+
 ## Technologies
 
 * Flutter

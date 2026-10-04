@@ -5,7 +5,25 @@
     "login_hint_text":"Youssef Atef",
     "login_text_button":"Contunue",
     "Bottom_Sheet_camera":"From Camera",
-    "Bottom_Sheet_gallery":"From Gallery"
+    "Bottom_Sheet_gallery":"From Gallery",
+    "Home_App_Bar":"Good Morning",
+    "Bottom_Add_Task":"Task",
+    "App_Bar_Add_Task":"Add Task",
+    "Title":"Title",
+    "Task_Title":"Task Title",
+    "Description":"Description",
+    "Task_Description":"Task Description...",
+    "Date":"Date",
+    "Time":"Time",
+    "Status":"Status",
+    "Choose_Status":"Choose Status",
+    "Error":"Error",
+    "Name_Is_Required":"Name is required",
+    "Photo_Is_Required":"Photo is required",
+    "Today_Tasks":"Today's Tasks",
+    "Choose_Color":"Choose Color",
+    "Save_Task":"Save Task"
+
     
 }
 

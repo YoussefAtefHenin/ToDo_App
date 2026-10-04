@@ -5,5 +5,22 @@
     "login_hint_text":"يوسف عاطف",
     "login_text_button":"أستمر",
     "Bottom_Sheet_camera":"من الكاميرا",
-    "Bottom_Sheet_gallery":"من الجهاز"
+    "Bottom_Sheet_gallery":"من الجهاز",
+    "Home_App_Bar":"صباح الخير",
+    "Bottom_Add_Task":"تكليف",
+    "App_Bar_Add_Task":"أضف تكليف",
+    "Title":"العنوان",
+    "Task_Title":"عنوان التكليف",
+    "Description":"الوصف",
+    "Task_Description":"وصف التكليف...",
+    "Date":"التاريخ",
+    "Time":"الوقت",
+    "Status":"الحالة",
+    "Choose_Status":"اختر الحالة",
+    "Error":"خطأ",
+    "Name_Is_Required":"يجب ادخال الأسم",
+    "Photo_Is_Required":"يجب ادخال الصورة",
+    "Today_Tasks":"تكاليف اليوم",
+    "Choose_Color":"اختر اللون",
+    "Save_Task":"حفظ التكليف"
 }
