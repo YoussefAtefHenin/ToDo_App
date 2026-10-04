@@ -23,12 +23,38 @@ A Flutter Todo application with a clean and simple user interface.
 ### Login Screen
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5da01a7d-2d66-4ae6-bdfc-1d1e3604d119" width="250"/>
-  <img src="https://github.com/user-attachments/assets/e3d53ec2-fac2-4888-93a4-52c7170228c6" width="250"/>
-  <img src="https://github.com/user-attachments/assets/c76c20ef-d249-4c05-851a-4a8a16b025b5" width="250"/>
-  <img src="https://github.com/user-attachments/assets/0c7ff4ca-02f5-4c6e-ba63-013570128a88" width="250"/>
-  <img src="https://github.com/user-attachments/assets/5abaa772-03e0-48c4-b116-89867626bb09" width="250"/>
-  <img src="https://github.com/user-attachments/assets/459e5e25-cf1b-4fed-92ba-78c5c10fbc1c" width="250"/>
+  <img src="https://github.com/user-attachments/assets/e9212fb4-747d-4ab8-a9b2-ca56ef001ee3" width="250"/>
+  <img src="https://github.com/user-attachments/assets/ca01a2aa-81ca-4508-8270-2c2d8c77e69c" width="250"/>
+  <img src="https://github.com/user-attachments/assets/ef0227ef-8e69-4129-9b06-50b73a6948ec" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0ff7c414-4496-487f-8299-8cd2ca907956" width="250"/>
+  <img src="https://github.com/user-attachments/assets/44fb48f6-d3da-4f0a-93e1-99c5d3fda1de" width="250"/>
+</p>
+
+### Home Screen and Add Task Screen
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ae20a162-e378-4e6b-a7a7-db6639d51ceb" width="250"/>
+  <img src="https://github.com/user-attachments/assets/98748f5a-245a-4fde-a815-cccafae3e7f5" width="250"/>
+  <img src="https://github.com/user-attachments/assets/880c6a15-5b8a-4902-9d42-210335530f72" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d8896e48-a9f3-4411-b10d-5ff8472444dd" width="250"/>
+  <img src="https://github.com/user-attachments/assets/908e148a-f993-4093-831c-80cf45c6a480" width="250"/>
+  <img src="https://github.com/user-attachments/assets/51dbc80e-0da5-499a-80c2-e5fabe4e8162" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/831ef3ec-eca7-42c4-aa57-be3865884c92" width="250"/>
+  <img src="https://github.com/user-attachments/assets/83ae8840-96e4-4bcc-bfb0-1a3f8713b64f" width="250"/>
+  <img src="https://github.com/user-attachments/assets/1423cd13-1c61-4c7b-ba73-5cadaf917996" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4b9ad749-7e55-498a-866a-79781fa9a60b" width="250"/>
 </p>
 
 ## Localization
